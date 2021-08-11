@@ -1,0 +1,26 @@
+# Структуры данных: Словари (продолжение), Кортежи.
+
+student = {
+    'name' : 'Adilet',
+    'age' : 18,
+    'height': 1.80,
+    'physic passed':False,
+}
+
+if student['height'] >= 1.80 or student['physic passed'] == True:
+    print('ok', student['name'], "Куттуктайм сени, аскер")
+else:
+    print('no', student['name'], "морковку больше кушай")
+
+# # вывод данных
+# print(student['name'])
+# print(student['age'])
+# print(student['city'])
+
+# # изменение данных, # добавление данных # удаление
+# student['city'] = 'Moscow'
+# print(student)
+# student['height'] = 1.75
+# print(student)
+# del student['age']
+# print(student)
