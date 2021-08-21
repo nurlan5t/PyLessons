@@ -14,9 +14,6 @@ import random
 #     elif request == 'n':
 #         break
 
-
-
-
 import random
 
 number = random.randint(1, 100)
