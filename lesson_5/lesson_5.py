@@ -15,7 +15,7 @@ sred = []
 students = [
     {
         'name' : 'Batyr',
-        'ort' : 0,
+        'ort' : 200,
         'student': False
     },
     {
@@ -25,6 +25,7 @@ students = [
     },
     {
         'name' : 'As',
+        'name' : 'Askar',
         'ort' : 46,
         'student': False
     },
